@@ -29,3 +29,4 @@ To use the solutions:
 
 Clone the repository and run the functions in a JavaScript environment, such as Node.js or a browser console.
 Modify the input data as needed to test with different scenarios.
+Modify the input data in the functions to test with different datasets
